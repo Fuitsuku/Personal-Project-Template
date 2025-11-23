@@ -1,0 +1,12 @@
+name: premerge
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+
+env:
+
+jobs:

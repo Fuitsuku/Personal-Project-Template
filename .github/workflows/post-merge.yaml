@@ -1,0 +1,12 @@
+name: postmerge
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+
+env:
+
+jobs:
